@@ -1,0 +1,2 @@
+1. Dictionary of words - should have at least 10000 words or the random pick won't look very random.
+2. 
